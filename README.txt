@@ -5,7 +5,7 @@
 IDE: Microsoft Visual Studio 2019
 Language: C++
 Version: 0.1
-Project Type: archive file (.rar)
+Type: archive file (.rar)
 
 Исходник проекта "Как сделать Paint на Windows Forms C++"
 
