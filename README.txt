@@ -2,6 +2,10 @@
 
 © FirePlanetStudio
 
+IDE: Microsoft Visual Studio 2019
+Language: C++
+Version: 0.1
+
 Исходник проекта "Как сделать Paint на Windows Forms C++"
 
 Данный проект был создан в обучающих целях. В нем есть основной функционал, 
