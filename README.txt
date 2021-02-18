@@ -1,6 +1,6 @@
 # PaintInWinFormsCPlusPlus
 
-© FirePLanetStudio
+© FirePlanetStudio
 
 Исходник проекта "Как сделать Paint на Windows Forms C++"
 
@@ -8,10 +8,10 @@
 который реализуется в разных графических редакторах.
 
 Рекомендуется смотреть данный прект с видео материалами по этому проекту с 
-YouTube канала FirePlanetStudio: 
-https://www.youtube.com/playlist?list=PLpWjhCHQwH_oSxoTzquPTYJsn3vYWEj4t
+YouTube канала FirePlanetStudio: https://www.youtube.com/playlist?list=PLpWjhCHQwH_oSxoTzquPTYJsn3vYWEj4t
 
-!!!Внимание!!! Данный проект не гаранитированно запустится на вашем устройстве. 
+!!!Внимание!!! 
+Данный проект не гаранитированно запустится на вашем устройстве. 
 Это может быть связано по многим причинам (от разной версии сборки среды разработки,
 до разной версии фраемворка, и др.) НО! В данном проекте находяться все исходники,
 в которых можно посмотреть код проекта.
